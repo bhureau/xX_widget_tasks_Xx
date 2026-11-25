@@ -2,6 +2,10 @@
 
 A small desktop widget for Windows that shows the tasks from an Obsidian Markdown note and stays on top of your other windows. Ticking a task in the widget updates the note, and changes you make in Obsidian appear in the widget within a couple of seconds.
 
+<img width="630" height="452" alt="widget_funny" src="https://github.com/user-attachments/assets/5a96a000-e8a3-4fae-99f9-135a0956af9b" />
+
+
+
 ## Features
 
 - **Main goals only**: the widget lists the top-level tasks (no indentation). Click a goal's arrow ▸ to show its subtasks.
